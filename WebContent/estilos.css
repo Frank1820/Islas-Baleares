@@ -1,8 +1,19 @@
 @CHARSET "UTF-8";
 
 
+
+
 g:hover path{
 	fill:red;
 }
 
+text{
+	display:none;
+}
+
+
+g:hover text{
+	display:block;
+
+}
 
